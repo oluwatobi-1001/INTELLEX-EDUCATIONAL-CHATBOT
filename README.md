@@ -42,3 +42,11 @@ python main.py
 ## Summary
 
 Intellex turns a one-on-one tutoring conversation into a simple command-line experience: name the topic, get a clear explanation, and practice if you want to.
+
+
+
+
+
+
+For easier access to the program instead of using the zipped file, the link 👇👇👇👇 opens the program and through the link you can easily run the program see how the program works. The program is my final project foe a coding program known as codeinplace(CIP).
+The link: https://codeinplace.stanford.edu/cip6/share/EPugVQdxk2mc73VVWbBG
