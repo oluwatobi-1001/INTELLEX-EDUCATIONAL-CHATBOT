@@ -48,5 +48,5 @@ Intellex turns a one-on-one tutoring conversation into a simple command-line exp
 
 
 
-For easier access to the program instead of using the zipped file, the link 👇👇👇👇 opens the program and through the link you can easily run the program see how the program works. The program is my final project foe a coding program known as codeinplace(CIP).
+For easier access to the program instead of using the zipped file, the link 👇👇👇👇 opens the program and through the link you can easily run the program and see how the program works. The program is my final project foe a coding program known as codeinplace(CIP).
 The link: https://codeinplace.stanford.edu/cip6/share/EPugVQdxk2mc73VVWbBG
